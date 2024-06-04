@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your Site Title
-email: your-email@example.com
+title: Kári Finnsson
+email: strutur@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Your site description
-baseurl: "" # the subpath of your site, e.g. /blog
+  Hugleiðingar og lesefni
+baseurl: "/festina-lente" # the subpath of your site, empty since your site is at the root
 url: "https://karifinns.github.io/festina-lente" # the base hostname & protocol for your site
 theme: minima
 github_username: karifinns
